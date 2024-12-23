@@ -9,3 +9,6 @@ This is the universal installer for ALL ghool products!
 4. Wait for it to finish installing.
 
 Thats it - That is all that you have to do to install ANY ghool product using our quick and easy installer, I hope this helped!
+
+
+# This will release when ghool@DISCORD does!
